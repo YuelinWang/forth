@@ -25,7 +25,5 @@ public class LoginServlet extends HttpServlet{
 		}
 		writer.write(msg);
 	}
-	
-
 }
 
