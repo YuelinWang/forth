@@ -70,7 +70,9 @@
 	display: none;
 	font-family: 'Montserrat',sans-serif;
 }
-.pass
+.password:valid ~ .show{
+	display: block;
+}
 .space{
 	margin-top: 16px;
 }

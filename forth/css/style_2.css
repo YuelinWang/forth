@@ -2,7 +2,8 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: sans-serif;
-	background:#0984e3;
+	background: url(../img/style_2.png);
+	background-size: cover;
 }
 .box{
 	width:300px;
